@@ -1,0 +1,9 @@
+{
+  "python.pythonPath": "venv\\Scripts\\python.exe",
+  "files.autoSave": "afterDelay",
+  "python.linting.lintOnSave": true,
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": true,
+  "editor.formatOnSave": false,
+  "python.linting.pylintArgs": ["--extension-pkg-whitelist=cv2"]
+}
